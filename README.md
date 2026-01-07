@@ -1,2 +1,1 @@
-# Basic-Calculator-
-Beginner-friendly Project on simple Calculator design using HTML, CSS, and JavaScript.
+A simple **calculator user interface** built using **HTML and CSS only**, focusing on clean layout, responsive design, and UI structuring without JavaScript functionality.
